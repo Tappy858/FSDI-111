@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 # Set the FLASK_APP environment variable to the path of your main application file
 export FLASK_APP=app.routes
